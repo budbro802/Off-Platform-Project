@@ -1,0 +1,37 @@
+.page-header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(https://assets.codepen.io/8375990/pattern.jpeg);
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.background-medsprgrn {
+  background-color: mediumspringgreen;
+}
+
+.background-lghtcoral {
+  background-color: lightcoral;
+}
+
+.background-skyblue {
+  background-color: skyblue;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
